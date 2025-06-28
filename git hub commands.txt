@@ -16,3 +16,4 @@ git push -u origin name
 GIT branch -d name
 git checkout name
 git checkout -b name
+git remote remove origin
