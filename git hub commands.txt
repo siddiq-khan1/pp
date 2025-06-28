@@ -1,0 +1,19 @@
+git hub commands
+cd ####
+git init
+clear
+git add ###
+ls (to list the files)
+ls -a (for all files to  list)
+git status 
+git commit -m "maessage"
+git push origin main
+git remote add origin /URL/
+git remote -v (to verify the remote)
+git branch
+git branch -M new name 
+git push -u origin name
+GIT branch -d name
+git checkout name
+git checkout -b name
+git remote remove origin
