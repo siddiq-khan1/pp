@@ -1,7 +1,7 @@
 git hub commands
 cd ####
 git init
-clear
+clear   
 git add ###
 ls (to list the files)
 ls -a (for all files to  list)
